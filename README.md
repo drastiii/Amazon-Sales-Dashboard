@@ -12,5 +12,5 @@ The dashboard includes insights like product-wise sales, profit trends, region-w
 ---
 
 ## 📁 File
--  Excel Raw Data File
--  Power BI dashboard file
+- `Amazon-Sales-Report.xlsx` - Excel Raw Data File
+-  `Amazon Sales Dashboard.pbix` - Power BI dashboard file
